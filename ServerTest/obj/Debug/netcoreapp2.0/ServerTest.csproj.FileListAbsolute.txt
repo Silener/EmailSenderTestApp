@@ -1,0 +1,11 @@
+C:\Users\evelikov\source\repos\ServerTest\ServerTest\bin\Debug\netcoreapp2.0\ServerTest.deps.json
+C:\Users\evelikov\source\repos\ServerTest\ServerTest\bin\Debug\netcoreapp2.0\ServerTest.runtimeconfig.json
+C:\Users\evelikov\source\repos\ServerTest\ServerTest\bin\Debug\netcoreapp2.0\ServerTest.runtimeconfig.dev.json
+C:\Users\evelikov\source\repos\ServerTest\ServerTest\bin\Debug\netcoreapp2.0\ServerTest.dll
+C:\Users\evelikov\source\repos\ServerTest\ServerTest\obj\Debug\netcoreapp2.0\ServerTest.csprojResolveAssemblyReference.cache
+C:\Users\evelikov\source\repos\ServerTest\ServerTest\obj\Debug\netcoreapp2.0\ServerTest.csproj.CoreCompileInputs.cache
+C:\Users\evelikov\source\repos\ServerTest\ServerTest\obj\Debug\netcoreapp2.0\ServerTest.AssemblyInfoInputs.cache
+C:\Users\evelikov\source\repos\ServerTest\ServerTest\obj\Debug\netcoreapp2.0\ServerTest.AssemblyInfo.cs
+C:\Users\evelikov\source\repos\ServerTest\ServerTest\bin\Debug\netcoreapp2.0\ServerTest.pdb
+C:\Users\evelikov\source\repos\ServerTest\ServerTest\obj\Debug\netcoreapp2.0\ServerTest.dll
+C:\Users\evelikov\source\repos\ServerTest\ServerTest\obj\Debug\netcoreapp2.0\ServerTest.pdb
